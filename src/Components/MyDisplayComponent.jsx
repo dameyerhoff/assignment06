@@ -30,10 +30,10 @@ export default function MyDisplayComponent() {
     setCurrentIndex(index);
   }
 
-  //const imagesArray = [];
-  //for (const image of images) {
-  // imagesArray.push(<p>{image.title}</p>);
-  //}
+  const imagesArray = [];
+  for (const image of images) {
+    imagesArray.push(<p>{image.title}</p>);
+  }
 
   // console.log(imagesArray)
 
