@@ -1,16 +1,11 @@
-# React + Vite
+Reflection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Required
+🎯 What requirements did you achieve?
+(Answer) I achieved the main requirements of fetching the API and creating a gallery.
 
-Currently, two official plugins are available:
+🎯 Were there any requirements or goals that you were unable to achieve?
+(Answer) I was unable to achieve the mapping of key functions to scroll through the images (with the left and right buttons).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 If so, what was it that you found difficult about these tasks?
+The process involved in mapping the keys and/or buttons, and how to incorporate them into the code. I feel once shown I will be fine. It's just the process I've never seen before and I found online help very confusing. Some people opt to using different imports from react, that we have yet to be shown.
