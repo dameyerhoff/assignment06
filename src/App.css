@@ -6,6 +6,8 @@
   right: 0;
   margin-inline: auto;
   position: fixed;
+  overflow-y: auto;
+  overflow-wrap: auto;
 }
 
 .big {
